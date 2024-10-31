@@ -11,6 +11,11 @@ class Calculator {
         return a + b;
     }
 
+    // 足し算
+    add2(c, d) {
+        return c + d;
+    }
+    
     // 引き算
     subtract(a, b) {
         return a - b;

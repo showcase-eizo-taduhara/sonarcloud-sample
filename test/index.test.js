@@ -13,7 +13,7 @@ describe('Calculator class tests', () => {
     });
 
     test('add2() should add two numbers correctly', () => {
-        expect(calc.add(5, 3, 8)).toBe(16);
+        expect(calc.add2(5, 3, 8)).toBe(16);
     });
 
     test('subtract() should subtract two numbers correctly', () => {

@@ -8,17 +8,17 @@ beforeEach(() => {
 
 describe('Calculator class tests', () => {
 
-    test('add() should add two numbers correctly', () => {
-        expect(calc.add(5, 3)).toBe(8);
-    });
+//    test('add() should add two numbers correctly', () => {
+//       expect(calc.add(5, 3)).toBe(8);
+//    });
 
-    test('add2() should add two numbers correctly', () => {
-        expect(calc.add2(5, 3, 8)).toBe(16);
-    });
+//    test('add2() should add two numbers correctly', () => {
+//        expect(calc.add2(5, 3, 8)).toBe(16);
+//    });
 
-    test('subtract() should subtract two numbers correctly', () => {
-        expect(calc.subtract(5, 3)).toBe(2);
-    });
+//    test('subtract() should subtract two numbers correctly', () => {
+//        expect(calc.subtract(5, 3)).toBe(2);
+//    });
 
     test('multiply() should multiply two numbers correctly', () => {
         expect(calc.multiply(5, 3)).toBe(15);

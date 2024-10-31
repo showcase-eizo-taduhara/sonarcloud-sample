@@ -12,6 +12,10 @@ describe('Calculator class tests', () => {
         expect(calc.add(5, 3)).toBe(8);
     });
 
+    test('add2() should add two numbers correctly', () => {
+        expect(calc.add(5, 3, 8)).toBe(16);
+    });
+
     test('subtract() should subtract two numbers correctly', () => {
         expect(calc.subtract(5, 3)).toBe(2);
     });

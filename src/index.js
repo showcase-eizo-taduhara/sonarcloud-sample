@@ -12,8 +12,8 @@ class Calculator {
     }
 
     // 足し算
-    add2(c, d) {
-        return c + d;
+    add2(c, d, e) {
+        return c + d + e;
     }
     
     // 引き算

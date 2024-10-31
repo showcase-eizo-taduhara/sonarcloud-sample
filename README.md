@@ -1,2 +1,2 @@
 # sonarcloud-sample
-sonarcloudお試しソース
+sonarcloudお試しプロジェクト
